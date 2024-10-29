@@ -1,0 +1,26 @@
+<header class="header">
+  <div class="logo">
+    <img src="assets/images/logo.png" alt="Kaffekassan Logo"/>
+  </div>
+  <nav class="navigation">
+    <a href="#">Tjäna pengar</a>
+    <a href="#">Produkter</a>
+    <a href="#">Om oss</a>
+    <a href="#">Support</a>
+    <a href="#">Kalkylatorer</a>
+  </nav>
+  <div class="actions">
+    <a *ngIf="!isMobile()" href="#" class="action">
+      <img src="assets/images/money-kk-web-icons%201.png" alt="Starta försäljning"/>
+      Starta försäljning
+    </a>
+    <a href="#" class="action">
+      <img src="assets/images/user-kk-web-icons%201.png" alt="Logga in"/>
+      Logga in
+    </a>
+    <a *ngIf="isMobile()" href="#" class="action">
+      <img src="assets/images/bars-solid.svg" alt="Logga in"/>
+      Meny
+    </a>
+  </div>
+</header>

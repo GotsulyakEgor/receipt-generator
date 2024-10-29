@@ -1,0 +1,92 @@
+<div class="form-container">
+  <form [formGroup]="form">
+    <label>
+      Datum *
+      <input formControlName="date" type="date"/>
+    </label>
+
+    <label>
+      Säljare *
+      <input formControlName="seller" type="text"/>
+      <div *ngIf="form.get('seller')?.invalid && form.get('seller')?.touched" class="error">
+        <i *ngIf="form.get('seller')?.errors?.['required']">Skriv minst 2 tecken. Bara bokstäver, inga siffror.</i>
+        <i *ngIf="form.get('seller')?.errors?.['minlength']">Skriv minst 2 tecken.</i>
+        <i *ngIf="form.get('seller')?.errors?.['pattern']">Bara bokstäver, inga siffror.</i>
+      </div>
+    </label>
+
+    <label>
+      Skola/förening/lag *
+      <input formControlName="school" type="text"/>
+      <div *ngIf="form.get('school')?.invalid && form.get('school')?.touched" class="error">
+        <i *ngIf="form.get('school')?.errors?.['required']">Skriv minst 2 tecken.</i>
+      </div>
+    </label>
+
+    <h3>Köpare</h3>
+    <div *ngIf="buyer"
+         formGroupName="buyer">
+      <label>
+        Företag *
+        <input formControlName="company" type="text"/>
+        <div *ngIf="buyer.get('company')?.invalid && buyer.get('company')?.touched" class="error">
+          <i *ngIf="buyer.get('company')?.errors?.['required']">Skriv minst 2 tecken.</i>
+        </div>
+      </label>
+
+      <label>
+        Referens
+        <input formControlName="reference" type="text"/>
+        <div *ngIf="buyer.get('reference')?.invalid && buyer.get('reference')?.touched" class="error">
+          <i *ngIf="buyer.get('reference')?.errors?.['minlength']">Skriv minst 2 tecken.</i>
+        </div>
+      </label>
+
+      <label>
+        Organisationsnummer
+        <input formControlName="orgNumber" type="text"/>
+        <div *ngIf="buyer.get('orgNumber')?.invalid && buyer.get('orgNumber')?.touched" class="error">
+          <i>Organisationsnummer måste vara 10 siffror, inga bokstäver.</i>
+        </div>
+      </label>
+
+      <label>
+        E-post till referens *
+        <input formControlName="email" type="email"/>
+        <div *ngIf="buyer.get('email')?.invalid && buyer.get('email')?.touched" class="error">
+          <i>Kontrollera att du skrivit korrekt e-post, t.ex:</i><br>
+          <i class="fa-regular fa-circle-check" style="color: #034244;"></i>&nbsp;
+          <b><i>dittnamn&#64;gmail.com</i></b><br>
+          <i class="fa-regular fa-circle-xmark" style="color: #ff0000;"></i>&nbsp;
+          <b><i>dittnamn&#64;gmail,com</i></b>
+        </div>
+      </label>
+
+      <label>
+        Adress *
+        <input formControlName="address" type="text"/>
+        <div *ngIf="buyer.get('address')?.invalid && buyer.get('address')?.touched" class="error">
+          <i>Skriv minst 2 tecken.</i>
+        </div>
+      </label>
+
+      <div class="inline-fields">
+        <label>
+          Postnummer *
+          <input formControlName="postalCode" type="text"/>
+          <div *ngIf="buyer.get('postalCode')?.invalid && buyer.get('postalCode')?.touched" class="error">
+            <i>Postnummer måste vara 5 siffror långt.</i>
+          </div>
+        </label>
+
+        <label>
+          Ort *
+          <input formControlName="city" type="text"/>
+          <div *ngIf="buyer.get('city')?.invalid && buyer.get('city')?.touched" class="error">
+            <i>Skriv en ort eller stad.</i>
+          </div>
+        </label>
+      </div>
+    </div>
+  </form>
+</div>

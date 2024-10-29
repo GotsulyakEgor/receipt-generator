@@ -1,0 +1,23 @@
+<div class="pdf-preview-container">
+
+    <div *ngIf="pdfUrl">
+      <iframe
+        [src]="pdfUrl"
+        [ngStyle]="{ width: isMobile() ? '90%' : '595px', height: '760px' }"
+        frameborder="0"></iframe>
+    </div>
+
+  <button [disabled]="!isValid"
+          (click)="emailPDF()"
+          class="email-btn">
+    <a href="mailto:example@gmail.com">Mejla kvitto</a>
+  </button>
+  <button [disabled]="!isValid"
+          (click)="downloadPDF()"
+          class="download-btn">Skriv ut kvitto
+  </button>
+
+  <div *ngIf="showEmailConfirmation" class="confirmation-message">
+    Ditt kvitto har nu skickats till din mejl.
+  </div>
+</div>

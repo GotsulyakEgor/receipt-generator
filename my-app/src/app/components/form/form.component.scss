@@ -1,0 +1,44 @@
+.form-container {
+  max-width: 500px;
+}
+
+label {
+  display: block;
+  font-weight: 700;
+  font-size: 16px;
+  margin: 20px 0 5px;
+}
+
+input {
+  width: 100%;
+  margin-top: 10px;
+  padding: 8px;
+  border: 1px solid #333;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+input.ng-invalid.ng-touched {
+  border-color: red;
+}
+
+.error {
+  font-size: 14px;
+  font-weight: 400;
+  margin-top: 5px;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.inline-fields {
+  display: flex;
+  gap: 30px;
+}
+
+.inline-fields label {
+  flex: 1;
+}

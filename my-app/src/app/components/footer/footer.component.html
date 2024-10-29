@@ -1,0 +1,103 @@
+<div class="footer"  *ngIf="!isMobile()">
+  <div class="footer-content">
+    <div class="footer-column">
+      <h3>Kaffekassan</h3>
+      <ul>
+        <li>Hjälp & support</li>
+        <li>Alla produkter</li>
+        <li>Vårt kaffe</li>
+        <li>Om oss</li>
+        <li>Karriär</li>
+        <li>Blogg</li>
+      </ul>
+    </div>
+    <div class="footer-column">
+      <h3>Försäljning</h3>
+      <ul>
+        <li>Tjäna pengar</li>
+        <li>Klassförsäljning</li>
+        <li>Lagförsäljning</li>
+        <li>Föreningsförsäljning</li>
+        <li>Avsluta försäljning</li>
+      </ul>
+    </div>
+    <div class="footer-column">
+      <h3>Kalkylatorer</h3>
+      <ul>
+        <li>Säljmålskalkylator</li>
+        <li>Resekalkylator</li>
+        <li>Studentkalkylator</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="footer-bottom"  *ngIf="!isMobile()">
+  <span>Kaffekassan - 2023 - Org. Nr. 559250-4731</span>
+  <div class="footer-icons">
+    <a href="#" class="icon-instagram"><i class="fab fa-instagram"></i></a>
+    <a href="#" class="icon-tiktok"><i class="fab fa-tiktok"></i></a>
+  </div>
+  <div class="footer-links">
+    <a href="#">Allmänna villkor</a>
+    <a href="#">Cookies</a>
+    <a href="#">Integritetspolicy</a>
+  </div>
+</div>
+
+
+<div class="footer" *ngIf="isMobile()">
+  <div class="footer-content">
+    <div class="footer-column">
+      <div (click)="toggleMenu('kaffekassan')" class="collapsed-list">
+        <h3>Kaffekassan</h3>
+        <img src="assets/images/Vector.png"/>
+      </div>
+      <ul [class.collapsed]="!isOpen['kaffekassan']">
+        <li><a href="#">Hjälp & support</a></li>
+        <li><a href="#">Alla produkter</a></li>
+        <li><a href="#">Vårt kaffe</a></li>
+        <li><a href="#">Om oss</a></li>
+        <li><a href="#">Karriär</a></li>
+        <li><a href="#">Blogg</a></li>
+      </ul>
+    </div>
+    <div class="footer-column">
+      <div (click)="toggleMenu('forsaljning')" class="collapsed-list">
+        <h3>Forsaljning</h3>
+        <img src="assets/images/Vector.png"/>
+      </div>
+      <ul [class.collapsed]="!isOpen['forsaljning']">
+        <li><a href="#">Tjäna pengar</a></li>
+        <li><a href="#">Klassförsäljning</a></li>
+        <li><a href="#">Lagförsäljning</a></li>
+        <li><a href="#">Föreningsförsäljning</a></li>
+        <li><a href="#">Avsluta försäljning</a></li>
+      </ul>
+    </div>
+    <div class="footer-column">
+      <div (click)="toggleMenu('kalkylatorer')" class="collapsed-list">
+        <h3>Kalkylatorer</h3>
+        <img src="assets/images/Vector.png"/>
+      </div>
+      <ul [class.collapsed]="!isOpen['kalkylatorer']">
+        <li><a href="#">Säljmålskalkylator</a></li>
+        <li><a href="#">Resekalkylator</a></li>
+        <li><a href="#">Studentkalkylator</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="footer-icons">
+      <a href="#" class="icon-instagram"><i class="fab fa-instagram"></i></a>
+      <a href="#" class="icon-tiktok"><i class="fab fa-tiktok"></i></a>
+    </div>
+    <div class="footer-links">
+      <a href="#">Allmänna villkor</a>
+      <a href="#">Cookies</a>
+      <a href="#">Integritetspolicy</a>
+    </div>
+    <span>Kaffekassan - 2024 - Org. Nr. 559250-4731</span>
+  </div>
+</div>

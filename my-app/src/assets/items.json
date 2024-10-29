@@ -1,0 +1,247 @@
+[
+  {
+    "id": 1,
+    "title": "Aromica Organic 3-pack (Ground Coffee)",
+    "category": "Kaffe",
+    "price": "189",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/f2fe/225f/5fa2a0362efbba0644fb8c50fa9f38f5?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=TK36x03gqM82Iq9qTcPyv7znMVPLfNCDxyqdb2qiVUZS~Mz93eaJV0LRTDinammmf-99o-ryi6t3T3~QRl~GF9buE~LxHYbzc6uPjVHeDAyI1gLXlJUbpOPWrvXRu5YZXugO17fL1v8nmK8tKYzuvMY6TfDrqu~ZQNin7EQ7ta~hjaC8GKaeK8vGA9LRuygyOWbmC8mGHReoOxkgS7cXDNxbQZNB4tHdAn4LBJqCbrsqKqF2wBKXZRVBmxPRi6htkPR3MXXoJxtMWFGhNdr303sVDoOGp0OELIyFIjxO4WOZpWcdjLIkyRlA-pQZ-~sav56c~cwVu2C~IKLpVjznQQ__"
+  },
+  {
+    "id": 2,
+    "title": "Aromica Organic 3-pack (Whole Beans)",
+    "category": "Kaffe",
+    "price": "189",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/cd48/b548/0b5593682a8967a426b9c4cebba4ad19?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=l1R~uMMUg0zue3l2-JhRDPAQIoaY2GaRrl6-bysgx0Ztbxr8OO2nO2wfaibCwpU6As4YA9Io39fUr7~UPexu5VWoEiBXNEBk3cef--GNoOU4ylaUWjwl1wQXv8CxaVjIuNw0TCGV1DRv-MWGF8WAaQbcxz25EJKbal35TXUlio1AYmtlU~tKtPqnCy03X3GlBsHCVuvgMVImmNDIijHc9q2JEStdp4uYa-vJPPNESR2s37QZnUzeD~srjjCAfP4qBYPTsTaaAtfvqQBkptwpR5SQYrEqlUPqUjWniSht62BTybD6pI9wWM2j0f-ZdS7URFgnkq-RzypKgchyw2D98Q__"
+  },
+  {
+    "id": 3,
+    "title": "Luxury Sensation 3-pack (Ground Coffee)",
+    "category": "Kaffe",
+    "price": "169",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/13ca/c380/c07f14c09f9af076460cf5fd831ad20c?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ZbS35RembyTw9TMBzeZmr2ZG7bTxpW1nQhfE8toIb7XYQLkpVCpeuvUgHEWMSVF477P1vIGO9UxwqFa9vWmzWuSCwMxr-uV67w1pxQloXPMsm7ghbafvP99v-vS9oVe4LzSKdBySMn0n4pwCPe9YEz2Zz2~AG80rwifQ--cvpJvzXuS1ONOAyajweuMUXd5ms0lcUFZZCST53xYUmbakKV8Y~C1IfHyxnRImuJD10Gag7E2N2g1r4XU82r8JP4oHMB267H7ZJiJkh5uGYINjyg9~ovnHN~C2pgH~HkE~vPA34JB8RtvfdZI5Dy-BIzeYixdE7y2F114hB7ct5ZoGvA__"
+  },
+  {
+    "id": 4,
+    "title": "Luxury Sensation 3-pack (Whole Beans)",
+    "category": "Kaffe",
+    "price": "169",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/501b/4a2a/dbfb4228a1f2be7e433d479705217347?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Nkfgrk7O7Gt5~lwZcAavlKk-VaULEiY6Ne016LiC2Fvf-rx87spx~htSCsCbMGm9xexTWdlv5XFJcxgUmF6N-Kd5~CiIfFPUoNisLLuCEByly-jUWVzpr2yoNGZIqHbqbTZg5LWFZ-4UVmPUpVs6bBzH8BQrVrX-282gR5Mg-LEQloyuZktZDhWCn-lgMaKoD5qB6-renLhsHKbyUETsMaUYf9IsJG9tnlrzJeOoeBnajeAemeRiUHMjCy7SJKD7VU~qmN7gFFtsrTNsdLZAZEoYuqX~MP69Udd2t6SRFi94oq0FtE~58lfh8Q7Fp-31d3zlBgW1GulN-bdiWRkYKQ__"
+  },
+  {
+    "id": 5,
+    "title": "Dynamite Coffee 3-pack (Ground Coffee)",
+    "category": "Kaffe",
+    "price": "189",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/ea39/bf8a/c048bd204a7ea962f00d2943afaf55ef?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=JthkWrU6y7EzIHV6LC1-BW3Vou5sGUl-B0xwflDWIo27k9BQ0s5D2oJ2o80jmAp9htWpbXzU392umTZ-PnkhBpbsO6NTvW6jnmUVDZAKvWW6r5KY71TmD0UP~RY1hYAjeXDC4ocJeMDFaIszSVFGDD8tRLe8S4zJrob6hkJXzuF2aI5ymkcCb75EYtxWVCiZkzn8cetQtMR6YYU2ZmOxA4dZKZvPkvqQVLG9WF0Ve~F5zLJ~8Fze5FAkfYQU6aJIgql~ZigDm8yJYVFCTptdM2CSUYpe2PeRpRVo2oiWhgxxeHonlimojArdBAPn1CdfTbDK6JHTjcoIIfYTyrdRcg__"
+  },
+  {
+    "id": 6,
+    "title": "Dynamite Coffee 3-pack (Whole Beans)",
+    "category": "Kaffe",
+    "price": "189",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/a618/db7a/b22245d8c6e53310d85a83fe0e467cbe?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fdxal8cP9ppo1DxiTAs9uY4IRRulvUYgK6mXq8Gx4rV8QKrVLewDAU~ioqQA7ZozMisXAaxCegH3C5IHvq~16Ib~X9i7ZxqK0iAL8c1JxCBv1vksAwiuShWtx~Px7YiYIfN1Kb2TB1QRPhqymzMgfmqqP2PvK4gbzxF10QxSleP2qNGF6kiiv8DNm17QS3cX4harcr2fzToAP8grQ~-2EEUpKJpE0oGJCauUNGZuD7BVnKuOa7YiTIT3SNhAF7LLw~jd4pHaN87OWRhRiWmzoY2qjTh34Se3N8yWE5HNu~Z0E~ZQC1POnZveCPINLhxSnA3xk4qvzWn53FBNQx1qlA__"
+  },
+  {
+    "id": 7,
+    "title": "Sweet Dream Brew 3-pack (Ground Coffee)",
+    "category": "Kaffe",
+    "price": "249",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/37ae/bef2/f52998d321d589881b0a3a0ecb54dcb6?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=e6ZTucxWEyJb7HC9B21~k~nnc-Sa1nUvx8Sl~3t5J5Z5RQuIXhAvFWbCaOCTUhb3~PUXR6J1Y1KByZxqO3wfpgT48ixhaB00n5ytpVzZ6JPKIFyf-qenW0Jalf2ZUDYLBf4LRetS~OkBukIoWWQMSaqk8mH4Ychc5ivUBz9RUvu54hyFKr6eXC95v-bfkz5~36WWRowMUw-9dqG65sKLrFIjW6iiwUGj2~FincRubaj3j1ARbEmzVR0Ea8mx4qKZixY93LJKG5Zavj1NINj4bOnS~pvyKUB1f82a5um5R74Sg-OwE-Vy4wf3HvKnzUR93GiGruPQIDiiUtRCC4dKTA__"
+  },
+  {
+    "id": 8,
+    "title": "Blissful Brew 3-pack (Ground Coffee)",
+    "category": "Kaffe",
+    "price": "249",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/8ff4/cab3/411f0ee89eb1087119d748b6b71bfd5e?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fT8b4tJBJW0V~Mhs0IkuRT8YwTBY3fMnQyQaebus4SO469nKnZP3Sa8eyXodC8EpAGoHq64SWjx0A6hprj7fIJL8UInSa6v0Z9WjO5RLzWUL7vXnRxjOTfw8orNjwM~yVbmmHK84zka1Z-O2bHxaZxr5P7EGoJQg4SvTbfeTF91IjssPvn3lGjVggN3mvu3meYiSRSiyA8QEuN8OtgxyCY8qDaau-LGTjVSESeuZpIueQ0iNFQTbZLQ6sAcv8koi2A5ff~CPJutFyYyfaycVlHkY9co-LtgwxoK1E7wH1PMAClKTNSlZXxIEQ~MPxTZ7ct5rOdmK~alKeB59ao4o1g__"
+  },
+  {
+    "id": 9,
+    "title": "Chocolate Delight 3-pack (Ground Coffee)",
+    "category": "Kaffe",
+    "price": "249",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/87b1/7e30/4c273678879701f3a1856dd6b9e643d1?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=S4G~1P-5oHRGIlWs4ndFmp9ncGpOeVIOYfLkRAti0a5iNyjobMxtFlEq0te~oCYInTl80iRyVpbHIxic3p0M9GWD06UFuNvRBMUpGd1bqvrlxOn8S4ocPVAbuUzE3rYvQSHPfcAi3jLVezqAiLHbEihEL3KuDpbgHUxCDvO3QgehiZktEexZWFYVpgi4DgJ5FDr2Dc0QJ1bEOsDeQSpD9-BML0gxNYqgyxQQecInxDEjK59i-X~9wEonTqUrjeQN2Nv3kpepIkcefdvuMNoPEBteyPRpX-ZxirMPkXOkX8iZLi3Z0Qurri9ZobzhNgYqK1m0EJfE4aiMDZGUY2t-yg__"
+  },
+  {
+    "id": 10,
+    "title": "Irish Cream 3-pack (Ground Coffee)",
+    "category": "Kaffe",
+    "price": "249",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/e112/0ef3/8b2c53e3a19d8e355bad8dbe4e3de0f0?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=RSFDaKTOLY8l7jDHmMCHqgUfsX45bDY5FP1GJwoRhhiUwni~b8b5cTTIfTQqGOnmDa8p2mpmm53mksSyW~7ucjceF1Ti4Rx4P01PK-tIEhT~Is4eX-LVrTnNJUGR19JJbeMhBsLeWRqxFU0rCOBtBmC8-IVDDRYZHdApwJBDywCJR6bCA6evRuaOjWgQtHtrBH20kucyK2m1R8k8lBUoFXwO~E3QbfOla1C1-38bXSmROrtIQY0kNDRbDCyqEhnb7PkGRtg4~o4xG61TFjNcHbBw-CmDgHXTyERQ7ZcUv8cu6NErepLfQObBeDixS1mkZre~MLpWKCV3zsQhuaVTAw__"
+  },
+  {
+    "id": 11,
+    "title": "Vanilla Bliss 3-pack (Ground Coffee)",
+    "category": "Kaffe",
+    "price": "249",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/28ff/652e/c00972d10b796e1c0cf22d8603711497?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=IwIbLZzy-ik8qa754hjRzKPh2fUwGmNpdw-Iq-8gBsDkN-Cf34t-hZ06CvKZm~zb7Jqae3GQh9nvvoREG2nkQ~CcyfGYbDr5bWyrzruBpXtrpdsQkZJXUL7exZLFV8XGGLKSZYq0clgrJXpOvv4erwk7ihTZ62LLbtKpZ4rnKpSpKB2bkV5PMOIVVmtq0xL~rCahlhDDkX9USfbhr8uAelo8lGlu6oCZWTsYcQER0fzB2sDWPthbNLz~er8f3gFIoi88yoYqOkng5vHyyZ3OijI~Vf5oGzvVRwRgyrnGAGEdjDwtT8AWmxIdCKs--ISAG5CF~sfccV8iERJ0H66Wig__"
+  },
+  {
+    "id": 12,
+    "title": "Cardamom Compassion 3-pack (Ground Coffee)",
+    "category": "Kaffe",
+    "price": "249",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/0e81/48d1/805e609588bd354df450ebc61bacc3f2?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=aHXaO8qt6nZy2Hk0p1~6IsAWuzmvW6SLKnq0NgVL4gQU9K7QvqvboCVP6G8TLgJv85Ec4jLC6eqlMLt5S3rs6b7EGYeSonnwdisRfb7JOvK-aqoc~CSqaJSZcQrJMjQUBCw~r4QDSZ~vOz770E4Rdj1YqRU9CAc10QB5zH5mlJHEk88U2uhrNCZr2sf68mfMuPuHDMsOlkph08FfQ67U4hXHhss-Uq6tphQjExt2CCQ6Y6-D39~3DPZGTQc52yV6lvpVX3GHXE9amQB5ZXC4g3Xm9v14Q1kO1qTaM~9mWlmmq2cZe3Zkhoo8if9V9EyMvl4EDTFLUYXG6UCRoSZodA__"
+  },
+  {
+    "id": 13,
+    "title": "Creamy Caramel 3-pack (Ground Coffee)",
+    "category": "Kaffe",
+    "price": "249",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/2661/90fa/19ad5602e9d99dde3502a4620899ba65?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KDfKBXwHyj00qvOM7Q~-3lST7tt2bZXldzAmRdG8uEzaz-E4qnlSOh3ldUT0hKOp1nk9zhfbxv4NXA6uTMLn9sz~34rhXAeaMTzI2ViFUTxzQ-c~Eu0t~LmuWSLsil9lgAb3JysK9LvlFW6hXhgQtftzxP5AwrXry-~HDAhI65Px6pP1ZgbeoV0g2NeWv8S3mZTzqv1qkVUP8y4ToiXCzaXYl7RuqGaY5~qApnvZoiTEpAcqMmF1UkkVHwkOVVcJmVUcd9Jb5HX1FpC4xS0-R-m8AZls~roHT2KyQaQirTKm~Rq8Fh4s3dyZPTPWF1mE~aV2iXLSU1BkHRX6Y~z6zg__"
+  },
+  {
+    "id": 14,
+    "title": "Heavenly Hazelnut 3-pack (Ground Coffee)",
+    "category": "Kaffe",
+    "price": "249",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/86a3/ba23/6a5d5c531418f7e390cd75c476efca36?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=qTXZXkvAoKQBWLkyVP~9uWqydAXyaTYRDTFVCXW3R9~ywUTMTp85Z~OCkKWoXSckhgXXge~93JWc3OisaiKhRD1~6kaFH6ymNdS4ppEX38aye0eq18r13yLO1EvJF19rz~AfvmxAeUvQ13lkdM3ThHAva9vJXX2Ltu3j-zZx1B7f8~-OkJDRamZ-jMcU10meGjYDDpNgU3Y1Qz~HKCf0cCjPcDvw5P3rEneEayM~EQGeN-meo191MyyFnJgn9OW3-2b5yFCVFiDz0yOQIR7NCO~92v9fBSqboLPtQQesvizWRQc0VMJuUrOPLtXS4t5YQTWsHEx7gb42hFrgEvLncw__"
+  },
+  {
+    "id": 15,
+    "title": "Collector's Delight 12-pack Tea",
+    "category": "Te",
+    "price": "249",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/af98/baa7/e2416e36ba1b03a34e87a3a332248ba6?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=EUxnD2djRYXDIs8xKqnZ7tHszolE524IYKByeaYS2M4wdfVij4KdNgfs2Bw3VEHK4hiQPpX0ptyV~w3ceV7n3nVSIh8vRWfVWxy8kQ1a3L6Z7NxZ4ONgqVBkCZ7ujPW8BLzlCU8eQ8fKz1T2pA7H~ZnVzIFNTFPZqyn6fg2D6kOw09yccjlt0yiaTNzwLWEK2vbUoKoXsOwiK2nyH5C~E4Wk2EX3yKMPPBPBsOzOlmPoMIB~1qG82RHtYmP3mUnxPKPr03cIRAEqomYVF0wv53H1D51K13MjuI1FTOw0Sd~fPb-ABTTwRdXECxgn~-1c3hEQYwax2tBDzARK~d~JUw__"
+  },
+  {
+    "id": 16,
+    "title": "Tea Deluxe Mix 3-pack",
+    "category": "Te",
+    "price": "169",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/bba4/529e/f9ec7abc50098db1548b836500c7579d?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=l7c69~jkERIPiUJGsrysGEqgsV5~ciG5aso2fxD81YbkOYBgJaHQUvWVoV0hLanDGUF7b5KCdwn9cFf27EMt5OoteooB1iGHuOAUB5iGNnttFxhk25QcDctusnjjx9z6z1sM1AHAYctiCmOc5oCHyLzpO8iG4NzRua9keAEyt4t58Mpthd8ZVo6mIn7-gBTFss~PIQ7XXw2oK5O1rdVxXy6C73FLlV7mPRQ9yxdV2IfVfuL9vNx7vdoWKnW2OyfTyt~6iyBZRjkJ485-PopGKON3jmT1EhwHs1zCh4vx~S3tOigvSVdO12oa~i5t2y8fBE9OjZH4VrDuhwHKaex93A__"
+  },
+  {
+    "id": 17,
+    "title": "Tea Essential Mix 3-pack",
+    "category": "Te",
+    "price": "169",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/3257/2879/bc8918f5c43111db2f52eec4b4ecf17b?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=c8k7IbK~kj7aNSA6P-o3PGlPJzVkHRszqe9M-AsNRLNIAtzGG15BSXEqdm5atAASowS2QTi59qrIDojiT3fV4uOv2q309tJ2QmJIJeLyBy2PFywmHpQUOvRDMMcwM-sLMN8834EDrlrMO6MKP8LLe8oR~veTnSe5fiTzldJU-D71mtOV3e3zsI4CtGKZNakfUJqMwqRrvH4FO1CMvz1SrbLVn0nBZw02KsfDYX-bwZfLCmS3bJODSz1JppX13KvpxwylAK~MH3K-vgknV0wo22IWfws0Ta3UU6SucaVm05rzZaIKQKNjIp4n4KO5Tx9wETIyp4Nq6ILfxnBqHt2nhg__"
+  },
+  {
+    "id": 18,
+    "title": "Thermos bottle (500 ml - Black)",
+    "category": "Återanvändbara produkter",
+    "price": "199",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/9e78/b3bc/5aeac1ec6dc1f02b4028f3e0f7791ca8?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gtJgOoX6R5ujsfHi8vkHRtck8sqYxneLhT7cyvfgBMgUwo5dJVQ24l6fOTQoJkZEZTQ4pGMoEWduPCdMgjqBEoTh8bJYZw2oc~eOxK7cvbd6V3IsewlQpCOUyseotWR8aCpP-C3QyewCxE1P0xvCm2djoiTEQt5~3y0YnS3ldmRgsbDbTtMO6wKcfwgbXQZcFYzk1Bh6hO-N4A9AgykTi~yhXo2ESXXTL4ZhNrnQJnXOzEY~j-kU3wNn-ccFpK0cdauwpAZepn3K~vZzVLhqvG9u5xEqOIzodn1LeZNTeX1xzU5O4aM~3~oH0K~ut5JgUHRLVfktLreDG~u3e2ClVA__"
+  },
+  {
+    "id": 19,
+    "title": "Thermos bottle (500 ml - Green)",
+    "category": "Återanvändbara produkter",
+    "price": "199",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/8667/5738/239af621f0ff1852b3abdf57b87aae67?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=FILBwg~~9mYpz7R~piLDyGS-WxU9iDbdQhVTSiwWt4DTYHSxeB52DhMRNvhbWSwmAkEcjPeMRI-lHj8Y6G1Gms7kI-CCGn9dLFfa4bFSycznOxGdvDBAIpabVDwPkOciQWHIGbNj7rcuqHgPpZKhSQWNG-vYwWPR-ia~ftXlOC39v-SS653z5MMbfGFmVfU~dATUNOB-zt7jEn1FDHNplmAxD4Sm-6LJKfeXDSzzB4YibZDGDqZ2oiIDXiCqKOJX78KbDtcTmAzvoO7T7fg1eJUDo4ZLgo61T5cTbp5uJaW5qC7IhcC1n3Vtv~yggFTIU3M1oJGgNBJkZu84XZ6eJA__"
+  },
+  {
+    "id": 20,
+    "title": "Thermos bottle (500 ml - Pink)",
+    "category": "Återanvändbara produkter",
+    "price": "199",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/8491/4e07/7e38a1abdc392531224c1fda2573c4e1?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=aJTG8yprp2K4gnf9ysR~UAisoFxrEJkHHs6P8GXCPqYvLzlNFux7FO69DWPPsdiQlMuwKbK5ZXTJI2P5DCNIIB-yvgBU567VJabXporrtAmYQkpQpoyBc9zuKElKEQr-RfRhZF-1856DviJFPIEitHUZcg7egDWVE-lxxP1t12No9Pl0~nkaWNIkd63KbkMPtWA9NEm~3nlvg4YyoGbdgHhW0oyAiDpiGNTiiU3D~p9RReDtrFkgmFafhXKUdejXewN-2NqeRRsqFPd2PC8~HwXrKBWVWOtz5igJIOxLUxk8FGZ76UFK3FPbm5VOeSac0YaROmwxyGWKIwOuIpqzxg__"
+  },
+  {
+    "id": 21,
+    "title": "Thermos bottle (500 ml - White - Kaffekassan x TreeNation)",
+    "category": "Återanvändbara produkter",
+    "price": "249",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/4df2/9267/6c8b49c280f5e61a241682b80a144fd4?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=kit7BEc9SO8N2cnUDh5QSAZDQbabbTG1llLQmYvwYh1SXgeX43jFZfmUon6JD~JHJ~iBUlAgDjpO7qZbVcuOjBitYtFRUGEqoi~TmNLzBN1GViVueAx9h~tvNPr-B9QVATCP2cl6IpVMLYj1cOvLJeCqu8k2pNarqatlI41cTdmB-B35E0O2zBMB8R1wFSd21GoVgi4Bo~susuI9tkXAHGmXJg5NkVczP7NbaYZaOStAMkbktTPZ53CIIfrQec7nqiUswsHApjtn~qW-ts8LxyWD2SUsbKu3DrIMmyIu1tdqSKen0RZhiIYqeVGgrrRUAWJ~qnroEDCrfw3EYzObJw__"
+  },
+  {
+    "id": 22,
+    "title": "Thermos mug",
+    "category": "Återanvändbara produkter",
+    "price": "199",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/0e97/0993/e80210b08087d2bf4fa587d46c732bee?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YoJwpJOO27hVBmJDUidNKe~Xyw~yjnxjCpYcZRUGYepPL6i-vUQlBKLeJEOmIMrFkLMrqaLETH5jeEPi1WHIhpyq7t~QWJADqXEbMLdzycAwJ65Hvp6hPtTj5ybEoKIyoSisy5xXfM1GGvi1jydW8TCk6CmipXXpApFO~RdpJ3P5HmsqR4kilEi9zgSIaI8M9LDjfdaucQ5eERnssZX9t4UhVKRSQfU5nLjA1AqT2fdHTriOh7L2~gw4GnqXyrinVcZ-ai4KxXIXdjltEVlItEhkEwiADQkAEfHOh1UeHFmSVE4ylniXskU4I2NbIaO7uvngOC5j~fUfP1CP79qsuw__"
+  },
+  {
+    "id": 23,
+    "title": "Double Walled Coffee Glass",
+    "category": "Återanvändbara produkter",
+    "price": "249",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/cec8/f3fc/18eb17a15bd7d3da71e648bcd70df690?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=j0D1ThoCPlF91xITLrRliKjtymG5pMzVJ6ahAH8iAKwz6ce0-eN0W1fxNa-xyzfdPFLP21tyUbAH9gMXSfWTURTrzTmBpHmsIe98rXgoPuimes1K~zWo4ZJspoFdZTTYxjQTpG74LR4qppQZMqKr3PNg1AC3Pid8TK4UWIQJakwsOS2ZjIfCIgBXU6O3mf6j0df9YyZhzHEGBOtClx3~bTQVHhZ1oK86211mRDMrCVUUKYHZlGf9eFcUTh4nPRGb2PrpWo7dOi8Kig115ES81xfxuMmUqVNJqyQBY2qYI-p8uKEBQK0gMZFMYBfAnUsuWjskeWMNj4rJVJP-eWiMzw__"
+  },
+  {
+    "id": 24,
+    "title": "Grand Borosilicate Glass Cups",
+    "category": "Återanvändbara produkter",
+    "price": "249",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/ec5e/3bb8/d12ab937fdadd1dac53196ffce8d7d36?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Vn3TM24xXRk4qqS2bnamlstVfg-e2TS6Q-bHGbuCFyMMQ1QuGZSdhSDv-R36y-8-SbCkVlyufgy2WE7CKqnQsnVl3ZvO6ZVoKLpKGKts1w0r8wHsmtqQh75-w47YOKNg63watLTDrDptwgqd8K0fKkwCWDqLGXm~ImmhC~P-J6HJ-XSTxCL1iBhAKB6RIqUcOZyQAYc4MqBKRMpZeJBbVHizZL1gRlPfU7PEq5YXBeDtbEAbER5U7V-hybZSs5660Zb4YT1uysQlCD9U1wd7iqxQD9amZfHHhlqsVYdLDTn0j4xazMSPX91oy11PdA~NFhwC~KJhg-3xECKxwD-wxQ__"
+  },
+  {
+    "id": 25,
+    "title": "Coffee Filter",
+    "category": "Återanvändbara produkter",
+    "price": "149",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/615f/00f6/170b74ac7c18dc3b01f369102b520926?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=UOWnUDp2zA6tp3kquHOQ45gAt3Jhl0IUhiPYHukU5WwMo~ccZjJ~qsrwMQVxcdpV9UDUsjI2p8URgkFhEw0xJ4eF8ev3gaG9b8c5lN-md-dlHk87uVTUcvB5ZdBXwob6TZhN3ndBp2tiCpntwnJXffwdWOncieImWClKXhD7rt3DSwLW2tm074ThwFrYyUq8XXjtQ5DtgO~flBklK2WPo4Xj6iUL1C8q0ohe6uWWo~LpHS0OjMdmO882O867ajSg24KaPXcJEUnxAo5JKM-mACPZzRDwIMwq3vSWUdxKwTYlHYjMJ8hv2Urudlc8unUs3fBwA3vAtnaTPFuQf1iHsw__"
+  },
+  {
+    "id": 26,
+    "title": "Reusable Straws",
+    "category": "Återanvändbara produkter",
+    "price": "99",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/ee90/a985/81738fc45a5f16ab7a19f01f528ae121?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YLrSljVkXabLeaNwcgIOqfydkdOub3RDeZZaCEwtbFce0MG4b1LPfllk581VZSThnW5Z3noGZAoY4CZrmUocsol~IQ1Cc~cwMTutUGP5vN-prKsZsRQZLygLuVTxZsH7lMX4RdZaLKmfsLWpDEiOAE6HApnv5zrLzNlaKUQ6ogLLwg6f9JO9CnUjZ-vXrm8OCmnwuHD-oOpW~uc2x9Z57GU8m--LS4VzQDRBuB79vzMk-5R5wrK2qADrXEMnRQHQJEtTCRGwgEUSwegYVaHBoWSWlWSX4O3VHySpj9eYAkHXjxWbLoCgceaIHKh9sRLwp74wzbv2JUyqYP9uyHsOGg__"
+  },
+  {
+    "id": 27,
+    "title": "Reusable Golden Coffee Filter",
+    "category": "Återanvändbara produkter",
+    "price": "149",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/b3bb/c7a3/aed8bcb225409bdfc6b425d77d0fc864?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Adu1Pzz~E~hzrlNfCGfmQlkUdUFlTF~tQVrIRG4kuoGFSi4EDG5HPdj1uQiipTmomSqalWNqPhu1mMoInowpEzg12QudrxMRCddcgexepy27JsA~M7pXC9qK9UL1JVonTO89UmL5Sm7edGAucAZQbNRIvWCvFA7dw1SvnZv~w1llOF5u92mZjpoR7vwA0ntjNvJERPDQOAXHrWoDRn9psH9THEZV-mALq9kR~MQkrg3sB9NCYrANIZ0jBR8bl3BHYFydbjhVOEekgyvQVFdvd~Oa4cxG~bSB4xf6DCS29hCqvS171cTMFYJbBzCLw3TLUylN7JtPei5v7-Pr76h7hA__"
+  },
+  {
+    "id": 28,
+    "title": "Tote bag - Stockholm",
+    "category": "Återanvändbara produkter",
+    "price": "189",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/150a/b8f1/33ed62140592461d139af258a059a1e2?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=AO3vWSgYemOPyPqx3uHSxiivoZZlPJ~BBlL1VhOkNWOJ~MTXc2MsXgT2hXQYvxfN06X4JMmd~ySX2ckkwgTeagN05ruCaPvk3h8QMoZ~pzd2bIHVUEDsupOQgZXggZij3ac3S4~lvoZ9tYbRIoj6jOyX-mEv1-qbEv-Jw0xSD3QBOFFOwPLcffou2pYHRfTswMNMhmEGyRqFfuqbCXHwiQdgm~fCsa2SL4TKEMEvG3dZsHXsfPYZ9Z7fDxPjJiC0Fr1AfErHXc7G2taQ-IOf1T-mHw18CDiZ1qFvdNrpg13sD0vXdn~SZIwZ6zUhn31ShGrdeX8rprRbOtj9ktz9fA__"
+  },
+  {
+    "id": 29,
+    "title": "Tote bag - Malmö",
+    "category": "Återanvändbara produkter",
+    "price": "189",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/d0c6/e356/da1a21f41e88da6db6719c952ebd750b?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mIUNQvbGstR0VZEKs1DvpgmhwYuhZT3eLdfQlYEPNNjzg4WN3gIzJnDRStU2n89wEQOyui8qRIonzlYd~F0j5jXkBXuCkiTEffE3K1174pDwSiJQL1R~5Th12j8Gu7ptt3E9t~VSaeSFUr61ic3-6AvqxF~i2hSqUzdjhguzODmAb5aa1rTuQcJOJgCVkxyDJQQN-eAYeAZ~-9u~K5a3eL1dmcA5jw1ENA5sFz44koohEeIIkuGj1MXbtCcwVtmGsyV-J0UgaEyCbhUL3qpIcD-Ps0T2W2jHBK5WxsCydj~nnrE8BrWSK6jyXAmd4KXomiPb40A3xjGthN57ukuJyQ__"
+  },
+  {
+    "id": 30,
+    "title": "Tote bag - Göteborg",
+    "category": "Återanvändbara produkter",
+    "price": "189",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/dd33/0f08/5d706916ad7c7c91411c1e10217c587d?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=plvUUnsklN5qLAXeTzxZQIkJP6uqs1Pb8HeroQfJMG2jc4k083QQV-useZ5XK5v1-xdTqn83oe0MUdQOKaeSGi6c8KRsrpZiKQ-9JN~OJjnKy5KHU4Yqq-UankNbHxlnWrdfaORAhEkaLxORLkejWBsbp8MY8vQBrAaDkUQYAFLKyyQ-1Iy~fVHyygiY5TTDxm5i2S1nEaUdnBOGob0MeTtL4iiozicSxtoKqMuyswFtz1jfOxNlHzPzf44P8twQgqUC9je4j3MXscbZq1s16Sas4xzzpFpepox0rRgiqTtneyYJ-9k5ZP2RUynsVb4SVhbilaZA3L1NqdFkzxTrZA__"
+  },
+  {
+    "id": 31,
+    "title": "Beeswax Wraps - Honey Harmony",
+    "category": "Återanvändbara produkter",
+    "price": "199",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/9323/57fb/3af3c5895dd9baea7d466bf06b71c4eb?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=kN2TbmeZfXV8nhxzb2xUxYRp~95bHBLt5jrbLIssBp7s-~Bonpjo~yU4a8KEAPGgWzcL3JN1YtK-8~vf5ecfoHhpQ-TimrzPfUS3lgudY5s0ewaWvG9fuqAD2dAn5E65VxCcSQ1USqbyTUlaTKISCnXAk7cXZEvDpnAnU~5UrHsA3GcT86CE6o3v~sclqaJu7XFMesJRh6Ap6jIT8G6TfQfco2MaRidJfJJ0MY9pQk1UjbKzFG6aVi~xsSXfM7W68hl3S5SoS4Bs7lhV94TMMymXrGBXrIayLiQj07p1L2C8UOmYI9P9u99mWgQLgRmo59STNcXrKS0HGBAwLvWvZw__"
+  },
+  {
+    "id": 32,
+    "title": "Beeswax Roll - Honey Harmony",
+    "category": "Återanvändbara produkter",
+    "price": "249",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/9323/57fb/3af3c5895dd9baea7d466bf06b71c4eb?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=kN2TbmeZfXV8nhxzb2xUxYRp~95bHBLt5jrbLIssBp7s-~Bonpjo~yU4a8KEAPGgWzcL3JN1YtK-8~vf5ecfoHhpQ-TimrzPfUS3lgudY5s0ewaWvG9fuqAD2dAn5E65VxCcSQ1USqbyTUlaTKISCnXAk7cXZEvDpnAnU~5UrHsA3GcT86CE6o3v~sclqaJu7XFMesJRh6Ap6jIT8G6TfQfco2MaRidJfJJ0MY9pQk1UjbKzFG6aVi~xsSXfM7W68hl3S5SoS4Bs7lhV94TMMymXrGBXrIayLiQj07p1L2C8UOmYI9P9u99mWgQLgRmo59STNcXrKS0HGBAwLvWvZw__"
+  },
+  {
+    "id": 33,
+    "title": "Beeswax Roll - Whimsical Bloom",
+    "category": "Återanvändbara produkter",
+    "price": "249",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/a376/22f0/e44baa21a4a969cb88817239cb2dcef8?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SZLg7yvbNHMiFItW1prHYeekGtsKC8aT8KdkTOYTzhrGgvMq2lI4mqjmTWE69NDc57NGVicZYp-PA-3soCXA4aP5ywORaQkWd5cpdqnscs7h8BAfUnapIyCQ0raQOGC6SvSwuqW5gBcDrq7BzHi4cpKG3YHVKRWxq3zCnEz~EGf72FtcJOpqvloN0FzF5vfgwbkjeZKmn8qJzGt-ziDX2Xm9qNAiUA40DBY9Kt2MdrZj8Odl39qsabJi33i0UOZm-CaSX0y-X402I1vb~faDfTfOaz9GfOWICOUZmQfEpCXci-qVzSwEVgWWfqNmKiFocqJd81TZYRiuiANtklkQiA__"
+  },
+  {
+    "id": 34,
+    "title": "Beeswax Wraps - Whimsical Bloom",
+    "category": "Återanvändbara produkter",
+    "price": "199",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/abc3/c113/ced54b9688f03a931d8c9044ea45496d?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y30STFuZoEumpy6QYXBCaS7fK9ol0ghnPR4lKiYZio~WT3-foboSOl5uxbvaG6E26h4XSvNaob6u9hHVzScU988ZEPupxu6-JaeSKEil-BpjJZGAzS08zcfenWSHOBLYhBaQiJCZmWB9FYR~IS8WC8Gwg-mX2ZmmLsU~MHQ3y5yn1TGQUfjsGs2RvtmvcYJg5zD8waIHB1RQKxwoKAFE4qHzlXKjufsGPctFzv1vK8drzC-ye5ievMC1wiuQC3LciD~z0yFnYeYT4180b3KZ0ihTFC3ew~pMCqg~nru4Kt~eC99Cs8dnpzhXmHIGh0qK-dseXoHOc3BO-fOjgTYh~Q__"
+  },
+  {
+    "id": 35,
+    "title": "Automatic candle snuffer",
+    "category": "Återanvändbara produkter",
+    "price": "199",
+    "imgUrl": "https://s3-alpha-sig.figma.com/img/7ac5/3d46/0bc8ae9573bfd182016a868c13f02f39?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pv-EqDF5ga11XYqCDCPUZvxIKwS-ofb4nC9IHKrlBKJOraYaUIMXkHQm~2rHAkjEpRNUsIsU~5O3cnO8LomoezjwWftmJ5fnrHQQrefdpvBawmpcsZD~d9xaX5vVAHu8CsHP8QOQTvEAyzeb10jB2c2hMt8juknVsZDKgekW8e-RjrxZ8h2z82rK7OgplXF1wd1ZwGpB3MF7yjkrxbS84Ku5zvoZnsPQBIxhRUWJzmG94NVBjj2IvDhFwex-qQcpN7IKrVwbSgPpPAVBR6F~YArQzdQ6-CPvEf1zE4qBxfZQkMS-zyNpUykJG-BJg5Pt30vz9pqxL1DEIhZebNLsYw__"
+  }
+]

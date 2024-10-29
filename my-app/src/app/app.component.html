@@ -1,0 +1,25 @@
+<app-header></app-header>
+<div class="container">
+  <div class="description">
+    <h1>Skapa ditt kvitto</h1>
+    <p>Skapa ett kvitto snabbt och lätt för de produkter du beställt från en säljare.</p>
+  </div>
+
+  <h2>1. Välj produkter</h2>
+  <app-list
+    (itemsSelected)="updateSelectedItems($event)">
+  </app-list>
+
+  <h2>2. Skriv uppgifter för din beställning</h2>
+  <app-form
+    (formUpdate)="updateContactInfo($event)">
+  </app-form>
+
+  <h2>3. Förhandsgranskning</h2>
+  <app-pdf-generator
+    [selectedItems]="selectedItems"
+    [formData]="contactInfo"
+    [isValid]="isFormValid">
+  </app-pdf-generator>
+</div>
+<app-footer></app-footer>

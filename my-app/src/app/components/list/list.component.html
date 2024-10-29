@@ -1,0 +1,41 @@
+ <h2>Kaffe</h2>
+  <div *ngIf="coffeeItems.length > 0" class="items-grid">
+    <div *ngFor="let item of coffeeItems" class="item">
+      <img [ngSrc]="item.imgUrl" width="130" height="130" priority alt="{{ item.title }}">
+      <div>
+        <h3>{{ item.title }}</h3>
+        <p>{{ item.price }} kr</p>
+      </div>
+      <select (change)="onQuantityChange(item.id, $event)">
+        <option *ngFor="let qty of availableQuantity" [value]="qty">{{ qty }}</option>
+      </select>
+    </div>
+  </div>
+
+  <h2>Te</h2>
+  <div *ngIf="teaItems.length > 0" class="items-grid">
+    <div *ngFor="let item of teaItems" class="item">
+      <img [ngSrc]="item.imgUrl" width="130" height="130" alt="{{ item.title }}">
+      <div>
+        <h3>{{ item.title }}</h3>
+        <p>{{ item.price }} kr</p>
+      </div>
+      <select (change)="onQuantityChange(item.id, $event)">
+        <option *ngFor="let qty of availableQuantity" [value]="qty">{{ qty }}</option>
+      </select>
+    </div>
+  </div>
+
+  <h2>Återanvändbara produkter</h2>
+  <div *ngIf="reusableItems.length > 0" class="items-grid">
+    <div *ngFor="let item of reusableItems" class="item">
+      <img [ngSrc]="item.imgUrl" width="130" height="130" alt="{{ item.title }}">
+      <div>
+        <h3>{{ item.title }}</h3>
+        <p>{{ item.price }} kr</p>
+      </div>
+      <select (change)="onQuantityChange(item.id, $event)">
+        <option *ngFor="let qty of availableQuantity" [value]="qty">{{ qty }}</option>
+      </select>
+    </div>
+  </div>
